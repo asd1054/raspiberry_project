@@ -1,0 +1,42 @@
+MJPG Streamer Version.: 2.0
+ i: folder to watch...: /home/pi/tmp/
+ i: forced delay......: 1.0000
+ i: delete file.......: no, do not delete
+ i: filename must be..: -no filter for certain filename set-
+ o: www-folder-path......: ./www/
+ o: HTTP TCP port........: 8090
+ o: HTTP Listen Address..: (null)
+ o: username:password....: disabled
+ o: commands.............: enabled
+could not add watch: No such file or directory
+can not run input plugin 0: ./input_file.so
+MJPG Streamer Version.: 2.0
+Invalid height/width '1280×720' specified!
+MJPG Streamer Version.: 2.0
+Invalid height/width '1280×720' specified!
+MJPG Streamer Version.: 2.0
+ i: folder to watch...: /home/pi/tmp/
+ i: forced delay......: 1.0000
+ i: delete file.......: no, do not delete
+ i: filename must be..: -no filter for certain filename set-
+ o: www-folder-path......: ./www/
+ o: HTTP TCP port........: 8090
+ o: HTTP Listen Address..: (null)
+ o: username:password....: disabled
+ o: commands.............: enabled
+could not add watch: No such file or directory
+can not run input plugin 0: ./input_file.so
+MJPG Streamer Version.: 2.0
+ i: folder to watch...: /home/pi/tmp/
+ i: forced delay......: 1.0000
+ i: delete file.......: no, do not delete
+ i: filename must be..: -no filter for certain filename set-
+ o: www-folder-path......: ./www/
+ o: HTTP TCP port........: 8080
+ o: HTTP Listen Address..: (null)
+ o: username:password....: disabled
+ o: commands.............: enabled
+could not add watch: No such file or directory
+can not run input plugin 0: ./input_file.so
+MJPG Streamer Version.: 2.0
+Invalid height/width '1280×720' specified!
